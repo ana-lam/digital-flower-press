@@ -1,2 +1,4 @@
-# digital-flower-press
-Thinking about creating a digital flower press. Input: image of a flower. Output: "digitally" pressed flower.
+# Digital Flower Press
+I dreamt about making a digital flower press - so here it goes. 
+
+Input: image of a flower. Output: "digitally" pressed flower.
